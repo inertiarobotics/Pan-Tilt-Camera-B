@@ -1,4 +1,4 @@
-# Pan-Tilt-Camera-B
+# Pan Tilt Mechanism - Version B
 A lightweight and a less bulkier version of [Pan Tilt Camera A](https://github.com/inertiarobotics/Pan-Tilt-Camera-A)
 
 For Raspberry Pi Camera V2.
