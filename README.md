@@ -1,5 +1,6 @@
 # Pan-Tilt-Camera-B
 A stable, lightweight and a less bulkier version of [Pan Tilt Camera A] https://github.com/inertiarobotics/Pan-Tilt-Camera-A
+
 For Raspberry Pi Camera V2.
 ![Pan-Tilt-Camera-B](Pan-Tilt-Camera-B/blob/main/Camera%20Mount%20Component%20V2.png)
 
@@ -14,5 +15,5 @@ https://www.amazon.com/10-Bearing-6700ZZ-10x15x4-Shielded/dp/B002BBK5MY
 - Glue
 
 ## Assembly Guide:
-[Click to open instruction pdf ](Pan-Tilt-Camera-B/blob/main/Install%20Instructions%20-%20Pan%20Tilt%20Camera%20V2%20-%20Google%20Docs.pdf)
-Or See Install Instructions - Pan Tilt Camera V1.pdf
+[Click to open instruction pdf ](Pan-Tilt-Camera-B/blob/main/Install%20Instructions%20-%20Pan%20Tilt%20Camera%20B.pdf)
+Or See Install Instructions - Pan Tilt Camera B.pdf
