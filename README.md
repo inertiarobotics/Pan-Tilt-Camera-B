@@ -6,7 +6,7 @@ For Raspberry Pi Camera V2.
 <img src="https://github.com/inertiarobotics/Pan-Tilt-Camera-B/blob/main/Camera%20Mount%20Component%20V2.png?raw=true" width="50%" height="50%">
 
 # Why ? 
-The [Pan Tilt Camera A] https://github.com/inertiarobotics/Pan-Tilt-Camera-A, which is a predecessor of Pan-Tilt-Camera-B was more bulky and is meant to be used for achieve more stability.
+The [Pan Tilt Camera A](https://github.com/inertiarobotics/Pan-Tilt-Camera-A), which is a predecessor of Pan-Tilt-Camera-B was more bulky and is meant to be used for achieve more stability.
 
 ## Prerequisites / BOM:
 - 2 units of SG 90 - Micro 9g servos - one for pan and other for tilt.
