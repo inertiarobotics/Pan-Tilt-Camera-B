@@ -1,6 +1,7 @@
 # Pan-Tilt-Camera-B
 A stable, lightweight and a less bulkier version of [Pan Tilt Camera A] https://github.com/inertiarobotics/Pan-Tilt-Camera-A
 For Raspberry Pi Camera V2.
+![Pan-Tilt-Camera-B](Pan-Tilt-Camera-B/blob/main/Camera%20Mount%20Component%20V2.png)
 
 # Why ? 
 The [Pan Tilt Camera A] https://github.com/inertiarobotics/Pan-Tilt-Camera-A, which is a predecessor of Pan-Tilt-Camera-B was more bulky and is meant to be used for achieve more stability.
