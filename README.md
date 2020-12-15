@@ -16,6 +16,7 @@ The [Pan Tilt Camera A](https://github.com/inertiarobotics/Pan-Tilt-Camera-A), w
 - Glue
 
 ## Assembly Guide:
-[Click to open instruction pdf ](Pan-Tilt-Camera-B/blob/main/Install%20Instructions%20-%20Pan%20Tilt%20Camera%20B.pdf)
 
-Or see the Install Instructions - Pan Tilt Camera B.pdf file
+See the Install Instructions - Pan Tilt Camera B.pdf file at 
+
+https://github.com/inertiarobotics/Pan-Tilt-Camera-B/blob/main/Install%20Instructions%20-%20Pan%20Tilt%20Camera%20B.pdf
