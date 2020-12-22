@@ -17,6 +17,12 @@ The widely available pan tilt mechanism kits sold by adafruit, sparkfun or pirom
 (https://www.amazon.com/10-Bearing-6700ZZ-10x15x4-Shielded/dp/B002BBK5MY)
 - 4 units of  #2-56 x 1/2“ machine screws - 10 units
 - Glue
+- 3D printed parts:
+  - Camera Mount Component V2 - Tilt Holder
+  - Camera Mount Component V2 - PCB Holder
+  - Camera Mount Component V2 - Base Holder
+  - Camera Mount Component V2 - Pan Holder
+- Raspberry Pi Camera V2
 
 ## Assembly Guide:
 
